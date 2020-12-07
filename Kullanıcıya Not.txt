@@ -1,0 +1,3 @@
+Moodle_Rapor_2 programý .Net Framework 4.0 veya daha üst bir versiyon yüklü ise çalýþýr.
+
+Moodle Rapor programýndan hiçbir farký yoktur.
